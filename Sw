@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "ตรวยพบเก",
+    Text = "อย่าเกในที่นี้.",
+    Duration = 1
+})
